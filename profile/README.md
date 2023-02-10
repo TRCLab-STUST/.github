@@ -5,12 +5,11 @@
 
 - 🔭 I’m currently working on [MOST-2023-ICH](https://github.com/TRCLab-STUST/MOST-2023-ICH)
 
-- 📫 How to reach me **mb1g0110@stust.edu.tw**
-
 - 👨‍🏫 Advisor **trchang@stust.edu.tw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/FQQsQNnwWH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FQQsQNnwWH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
